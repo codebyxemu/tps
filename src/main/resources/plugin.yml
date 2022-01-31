@@ -1,0 +1,4 @@
+name: RestrictMobsOnLowTPS
+version: '${project.version}'
+main: me.xemu.restrictmobsonlowtps.RestrictMobsOnLowTPS
+api-version: 1.18
